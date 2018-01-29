@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMechanicsLib", "MatrixMechanicsLib\MatrixMechanicsLib.csproj", "{32B9D08C-928C-43A7-825D-AFBFCCEA570A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{FA18997B-68F5-4E42-9F46-E2174E5813B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{32B9D08C-928C-43A7-825D-AFBFCCEA570A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32B9D08C-928C-43A7-825D-AFBFCCEA570A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32B9D08C-928C-43A7-825D-AFBFCCEA570A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA18997B-68F5-4E42-9F46-E2174E5813B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA18997B-68F5-4E42-9F46-E2174E5813B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA18997B-68F5-4E42-9F46-E2174E5813B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA18997B-68F5-4E42-9F46-E2174E5813B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
